@@ -1,0 +1,2 @@
+Use this configuration to compile a gstreamer app:
+gcc file.c -o basic-tutorial-1 `pkg-config --cflags --libs gstreamer-1.0`
